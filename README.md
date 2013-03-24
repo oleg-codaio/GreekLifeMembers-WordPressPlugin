@@ -1,6 +1,6 @@
-Dynamic Groups Plugin for WordPress
+Greek Life Members Plugin for WordPress
 ===================
 
-WordPress plugin built to make it easy to list and categorize members of an organization (such as a fraternity/sorority).
+WordPress plugin built to make it easy to list members of a fraternity or sorority.
 
 **Currently under development.**
